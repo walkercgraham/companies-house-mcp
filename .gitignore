@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Private notes
+CLAUDE.md
+
+# Python environment and caches
+.venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+*.egg-info/
+
+# Editor settings
+.vscode/
+
+# Raw eval transcripts
+evals/results/raw/
